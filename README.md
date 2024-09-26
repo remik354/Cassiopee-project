@@ -1,4 +1,4 @@
-# GNN Visualisation and Optimization Notebooks
+# Neural network-based model for the identification of Bladder Cancer subtypes
 
 Ce dépôt contient plusieurs notebooks Jupyter pour la visualisation et l'optimisation de modèles de réseaux de neurones graphiques (GNN). Les notebooks couvrent des tâches d'induction et de transduction, ainsi que l'optimisation des hyperparamètres à l'aide d'Optuna.
 
