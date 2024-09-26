@@ -32,32 +32,7 @@ pip install numpy pandas matplotlib torch torch-geometric optuna
 
 Utilisation
 
-Étape 0 : Organiser ses dossiers avec les données
-
-BLCA_DATA/
-├── CLINICAL
-│ └── PROCESSED
-├── HISTO
-│ └── PROCESSED
-│     ├── DIAGNOSTIC_SLIDES
-│     └── TISSUE_SLIDES
-├── labels_onehot.csv
-├── labels_str.csv
-├── node_embedding.csv
-├── node_embedding.pt
-├── OMICS
-│ └── PROCESSED
-│     ├── gene-expression_norm.csv
-│     ├── methylation_norm.csv
-│     ├── mirna-expression_norm.csv
-│     └── protein-expression_norm.csv
-└── Workspace
-    ├── labels_str.csv
-    ├── labels_str_Norm_weights.csv
-    ├── node_embedding.csv
-    └── patient_norm.csv
-
-cassiopee-projet-main/
+cassiopee-projet/
 *travaillez ici*
 
 Organisez vos dossiers selon le modèle suivant : 
